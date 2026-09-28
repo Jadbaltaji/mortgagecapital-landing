@@ -90,7 +90,7 @@ section.wash{background:var(--wash)}
 .cta-band p{color:#C9D3E0;margin-bottom:24px}
 
 /* footer */
-.site-footer{background:var(--brand-dark);color:#C9CBCC;padding:48px 0 32px;font-size:.9rem;color:var(--muted)}
+.site-footer{background:var(--brand-dark);color:#C9CBCC;padding:48px 0 32px;font-size:.9rem}
 .site-footer .cols{display:grid;grid-template-columns:2fr 1fr 1fr;gap:32px;margin-bottom:32px}
 @media (max-width:820px){.site-footer .cols{grid-template-columns:1fr}}
 .site-footer h3{font-size:.95rem;color:#fff;text-transform:uppercase;letter-spacing:.06em}

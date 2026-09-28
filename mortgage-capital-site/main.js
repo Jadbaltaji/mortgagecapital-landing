@@ -71,7 +71,7 @@ if (form) {
       .then(done)
       .catch(function () {
         btn.disabled = false; btn.textContent = 'Get My Free Quote →';
-        alert('Something went wrong sending your request. Please call us at (248) 242-7209.');
+        alert('Something went wrong sending your request. Please call us at (248) 242-7209 or support at (313) 394-7617.');
       });
   });
 }

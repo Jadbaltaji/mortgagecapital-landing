@@ -13,7 +13,7 @@ var LEAD_WEBHOOK_URL = '';
 
 // Keep this version string in sync with the consent text in quote.html.
 // It is stored with every lead so you can prove exactly what the consumer agreed to.
-var CONSENT_VERSION = '2026-09-28-v1';
+var CONSENT_VERSION = '2026-09-28-v2';
 
 var form = document.getElementById('quote-form');
 if (form) {
